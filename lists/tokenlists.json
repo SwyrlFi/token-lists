@@ -67,6 +67,30 @@
       "logo": "https://alpha.clober.io/_next/image?url=%2Fasset-icon%2FshMON.png&w=64&q=75",
       "chainId": 10143,
       "decimals": 18
+    },
+    {
+      "symbol": "SWYRL",
+      "name": "SWYRL",
+      "address": "0x3406E9402AfD24A1352cc31FB80a99bE39b18C3f",
+      "logo": "https://fast.image.delivery/rfuyqxp.png",
+      "chainId": 10143,
+      "decimals": 18
+    },
+    {
+      "symbol": "xSWYRL",
+      "name": "xSWYRL",
+      "address": "0xB8B72C591f553aab0b7204ddbaf6fCeF3B27a860",
+      "logo": "https://fast.image.delivery/epyknli.png",
+      "chainId": 10143,
+      "decimals": 18
+    },
+    {
+      "symbol": "s33",
+      "name": "s33",
+      "address": "0x4fafb8C7e14a656f13833c35410532e1F7290Cdf",
+      "logo": "https://fast.image.delivery/ovjzhgv.png",
+      "chainId": 10143,
+      "decimals": 18
     }
   ]
 }
