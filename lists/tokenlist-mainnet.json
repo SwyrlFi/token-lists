@@ -38,7 +38,7 @@
       "symbol": "SWYRL",
       "name": "SWYRL",
       "address": "0x32D14d57c60A4A213EB4cF76Cb805776D869Bffb",
-      "logo": "https://fast.image.delivery/rfuyqxp.png",
+      "logo": "https://raw.githubusercontent.com/SwyrlFi/token-lists/main/image/swyrl.png",
       "chainId": 143,
       "decimals": 18
     },
@@ -46,7 +46,7 @@
       "symbol": "xSWYRL",
       "name": "xSWYRL",
       "address": "0x325acb982f42729A1d43d36c79c52ab7bDBd175B",
-      "logo": "https://fast.image.delivery/epyknli.png",
+      "logo": "https://raw.githubusercontent.com/SwyrlFi/token-lists/main/image/xswyrl.png",
       "chainId": 143,
       "decimals": 18
     }
