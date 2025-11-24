@@ -1,0 +1,62 @@
+{
+  "name": "Swyrl Finance Mainnet Tokenlist",
+  "timestamp": "2025-11-24T00:00:00Z",
+  "tokens": [
+    {
+      "symbol": "MON",
+      "name": "Monad",
+      "address": "0x0000000000000000000000000000000000000000",
+      "logo": "https://raw.githubusercontent.com/monad-crypto/token-list/refs/heads/main/mainnet/MON/logo.svg",
+      "chainId": 143,
+      "decimals": 18
+    },
+    {
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "address": "0x754704Bc059F8C67012fEd69BC8A327a5aafb603",
+      "logo": "https://raw.githubusercontent.com/monad-crypto/token-list/refs/heads/main/mainnet/USDC/logo.svg",
+      "chainId": 143,
+      "decimals": 6
+    },
+    {
+      "symbol": "USDT0",
+      "name": "USDT0",
+      "address": "0xe7cd86e13AC4309349F30B3435a9d337750fC82D",
+      "logo": "https://raw.githubusercontent.com/monad-crypto/token-list/refs/heads/main/mainnet/USDT0/logo.svg",
+      "chainId": 143,
+      "decimals": 6
+    },
+    {
+      "symbol": "shMON",
+      "name": "ShMonad",
+      "address": "0x1B68626dCa36c7fE922fD2d55E4f631d962dE19c",
+      "logo": "https://raw.githubusercontent.com/monad-crypto/token-list/refs/heads/main/mainnet/shMON/logo.png",
+      "chainId": 143,
+      "decimals": 18
+    },
+    {
+      "symbol": "SWYRL",
+      "name": "SWYRL",
+      "address": "0x32D14d57c60A4A213EB4cF76Cb805776D869Bffb",
+      "logo": "https://fast.image.delivery/rfuyqxp.png",
+      "chainId": 143,
+      "decimals": 18
+    },
+    {
+      "symbol": "xSWYRL",
+      "name": "xSWYRL",
+      "address": "0x325acb982f42729A1d43d36c79c52ab7bDBd175B",
+      "logo": "https://fast.image.delivery/epyknli.png",
+      "chainId": 143,
+      "decimals": 18
+    },
+    {
+      "symbol": "s33",
+      "name": "s33",
+      "address": "0x0E1303c46955af1b22E4131B46Fa533293f0A3d2",
+      "logo": "https://fast.image.delivery/ovjzhgv.png",
+      "chainId": 143,
+      "decimals": 18
+    }
+  ]
+}
