@@ -49,14 +49,6 @@
       "logo": "https://fast.image.delivery/epyknli.png",
       "chainId": 143,
       "decimals": 18
-    },
-    {
-      "symbol": "s33",
-      "name": "s33",
-      "address": "0x0E1303c46955af1b22E4131B46Fa533293f0A3d2",
-      "logo": "https://fast.image.delivery/ovjzhgv.png",
-      "chainId": 143,
-      "decimals": 18
     }
   ]
 }
