@@ -65,6 +65,14 @@
       "logo": "https://raw.githubusercontent.com/SwyrlFi/token-lists/main/image/xswyrl.png",
       "chainId": 143,
       "decimals": 18
+    },
+    {
+      "symbol": "WBTC",
+      "name": "Wrapped BTC",
+      "address": "0x0555E30da8f98308EdB960aa94C0Db47230d2B9c",
+      "logo": "https://raw.githubusercontent.com/monad-crypto/token-list/refs/heads/main/mainnet/WBTC/logo.svg",
+      "chainId": 143,
+      "decimals": 8
     }
   ]
 }
